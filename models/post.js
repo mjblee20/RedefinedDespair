@@ -1,0 +1,1 @@
+// Model for creating Post table in database
