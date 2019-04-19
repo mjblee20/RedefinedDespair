@@ -1,0 +1,1 @@
+// Model for creating User table in database

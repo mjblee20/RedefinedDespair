@@ -1,0 +1,1 @@
+// Model for creating Comment table in database
